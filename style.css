@@ -24,7 +24,7 @@ h2{
 }
 header a:hover{
     background-color: blueviolet;
-    color: rgb(33, 20, 220);
+    color: blue;
 }
 .gallery{
     display: flex;
